@@ -1,2 +1,0 @@
-C:\Users\tanya\Documents\Work projects\Salma\nsis\SALMA.msi
-C:\Users\tanya\Documents\Work projects\Salma\nsis\Salma.wixpdb
