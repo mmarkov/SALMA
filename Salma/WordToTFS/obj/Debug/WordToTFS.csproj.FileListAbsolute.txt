@@ -1,0 +1,190 @@
+D:\2010-2012 SALMA\Salma\WordToTFS\bin\Debug\WordToTFS.dll
+D:\2010-2012 SALMA\Salma\WordToTFS\bin\Debug\WordToTFS.pdb
+D:\2010-2012 SALMA\Salma\WordToTFS\bin\Debug\ru-RU\WordToTFS.resources.dll
+D:\2010-2012 SALMA\Salma\WordToTFS\bin\Debug\en-US\WordToTFS.resources.dll
+D:\2010-2012 SALMA\Salma\WordToTFS\bin\Debug\Ionic.Zip.dll
+D:\2010-2012 SALMA\Salma\WordToTFS\bin\Debug\Microsoft.TeamFoundation.Client.dll
+D:\2010-2012 SALMA\Salma\WordToTFS\bin\Debug\Microsoft.TeamFoundation.Common.dll
+D:\2010-2012 SALMA\Salma\WordToTFS\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.dll
+D:\2010-2012 SALMA\Salma\WordToTFS\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Common.dll
+D:\2010-2012 SALMA\Salma\WordToTFS\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+D:\2010-2012 SALMA\Salma\WordToTFS\bin\Debug\Ionic.Zip.xml
+D:\2010-2012 SALMA\Salma\WordToTFS\bin\Debug\Microsoft.TeamFoundation.Common.xml
+D:\2010-2012 SALMA\Salma\WordToTFS\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.xml
+D:\2010-2012 SALMA\Salma\WordToTFS\bin\Debug\Microsoft.WITDataStore.dll
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\WordToTFS.csproj.ResolveComReference.cache
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\View\AddDetails.g.cs
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\View\Connect.g.cs
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\View\CreateNew.g.cs
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\View\LinkItem.g.cs
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\View\MatrixReport.g.cs
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\View\ProgressDialog.g.cs
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\View\QueryReport.g.cs
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\View\RequiredFields.g.cs
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\View\StepActionsResult.g.cs
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\WordToTFS_MarkupCompile.cache
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\WordToTFS_MarkupCompile.lref
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\View\AddDetails.baml
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\View\Connect.baml
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\View\CreateNew.baml
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\View\LinkItem.baml
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\View\MatrixReport.baml
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\View\ProgressDialog.baml
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\View\QueryReport.baml
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\View\RequiredFields.baml
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\View\StepActionsResult.baml
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\View\Style.baml
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\WordToTFS.g.resources
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\WordToTFS.Properties.Resources.resources
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\WordToTFS.Properties.Resources.ru-RU.resources
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\WordToTFS.UIResources.ru-RU.resources
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\WordToTFS.UIResources.en-US.resources
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\WordToTFS.csproj.GenerateResource.Cache
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\ru-RU\WordToTFS.resources.dll
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\en-US\WordToTFS.resources.dll
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\WordToTFS.dll
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\WordToTFS.pdb
+D:\2010-2012 SALMA\Salma\WordToTFS\obj\Debug\WordToTFS.csprojResolveAssemblyReference.cache
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\bin\Debug\WordToTFS.dll
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\bin\Debug\WordToTFS.pdb
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\bin\Debug\ru-RU\WordToTFS.resources.dll
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\bin\Debug\en-US\WordToTFS.resources.dll
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\bin\Debug\Ionic.Zip.dll
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\bin\Debug\Newtonsoft.Json.dll
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\bin\Debug\System.Net.Http.Formatting.dll
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\bin\Debug\System.Web.Http.dll
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\bin\Debug\Ionic.Zip.xml
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\bin\Debug\System.Net.Http.Formatting.xml
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\bin\Debug\System.Web.Http.xml
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\bin\Debug\Microsoft.WITDataStore.dll
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\WordToTFS.csproj.ResolveComReference.cache
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\View\AddDetails.g.cs
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\View\Connect.g.cs
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\View\CreateNew.g.cs
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\View\LinkItem.g.cs
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\View\MatrixReport.g.cs
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\View\ProgressDialog.g.cs
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\View\QueryReport.g.cs
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\View\RequiredFields.g.cs
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\View\StepActionsResult.g.cs
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\WordToTFS_MarkupCompile.cache
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\WordToTFS_MarkupCompile.lref
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\View\AddDetails.baml
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\View\Connect.baml
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\View\CreateNew.baml
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\View\LinkItem.baml
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\View\MatrixReport.baml
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\View\ProgressDialog.baml
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\View\QueryReport.baml
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\View\RequiredFields.baml
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\View\StepActionsResult.baml
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\View\Style.baml
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\WordToTFS.g.resources
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\WordToTFS.Properties.Resources.resources
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\WordToTFS.Properties.Resources.ru-RU.resources
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\WordToTFS.UIResources.ru-RU.resources
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\WordToTFS.UIResources.en-US.resources
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\WordToTFS.csproj.GenerateResource.Cache
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\ru-RU\WordToTFS.resources.dll
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\en-US\WordToTFS.resources.dll
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\WordToTFS.dll
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\WordToTFS.pdb
+D:\SALMA sourcecode for v1-6\Salma\WordToTFS\obj\Debug\WordToTFS.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\bin\Debug\WordToTFS.dll
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\bin\Debug\WordToTFS.pdb
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\bin\Debug\ru-RU\WordToTFS.resources.dll
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\bin\Debug\en-US\WordToTFS.resources.dll
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\bin\Debug\Ionic.Zip.dll
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\bin\Debug\Ionic.Zip.xml
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\bin\Debug\Microsoft.WITDataStore.dll
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\WordToTFS.csproj.ResolveComReference.cache
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\View\AddDetails.g.cs
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\View\Connect.g.cs
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\View\CreateNew.g.cs
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\View\LinkItem.g.cs
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\View\MatrixReport.g.cs
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\View\ProgressDialog.g.cs
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\View\QueryReport.g.cs
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\View\RequiredFields.g.cs
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\View\StepActionsResult.g.cs
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\WordToTFS_MarkupCompile.cache
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\WordToTFS_MarkupCompile.lref
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\View\AddDetails.baml
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\View\Connect.baml
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\View\CreateNew.baml
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\View\LinkItem.baml
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\View\MatrixReport.baml
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\View\ProgressDialog.baml
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\View\QueryReport.baml
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\View\RequiredFields.baml
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\View\StepActionsResult.baml
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\View\Style.baml
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\WordToTFS.g.resources
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\WordToTFS.Properties.Resources.resources
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\WordToTFS.Properties.Resources.ru-RU.resources
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\WordToTFS.UIResources.ru-RU.resources
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\WordToTFS.UIResources.en-US.resources
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\WordToTFS.csproj.GenerateResource.Cache
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\ru-RU\WordToTFS.resources.dll
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\en-US\WordToTFS.resources.dll
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\WordToTFS.dll
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\WordToTFS.pdb
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\bin\Debug\HtmlAgilityPack.dll
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\WordToTFS\obj\Debug\WordToTFS.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\WordToTFS.csproj.ResolveComReference.cache
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\View\AddDetails.g.cs
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\View\Connect.g.cs
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\View\ImportDialog.g.cs
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\View\ErrorDialog.g.cs
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\View\ExportDialog.g.cs
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\View\UpdateDialog.g.cs
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\View\CreateNew.g.cs
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\View\LinkItem.g.cs
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\View\MatrixReport.g.cs
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\View\ProgressDialog.g.cs
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\View\QueryReport.g.cs
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\View\RequiredFields.g.cs
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\View\StepActionsResult.g.cs
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\WordToTFS_MarkupCompile.cache
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\WordToTFS_MarkupCompile.lref
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\View\AddDetails.baml
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\View\Connect.baml
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\View\ImportDialog.baml
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\View\ErrorDialog.baml
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\View\CreateNew.baml
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\View\LinkItem.baml
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\View\MatrixReport.baml
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\View\ProgressDialog.baml
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\View\QueryReport.baml
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\View\RequiredFields.baml
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\View\StepActionsResult.baml
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\View\Style.baml
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\WordToTFS.dll
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\WordToTFS.pdb
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\View\UpdateDialog.baml
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\bin\Debug\WordToTFS.dll
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\bin\Debug\WordToTFS.pdb
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\bin\Debug\ru-RU\WordToTFS.resources.dll
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\bin\Debug\en-US\WordToTFS.resources.dll
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\bin\Debug\HtmlAgilityPack.dll
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\bin\Debug\Ionic.Zip.dll
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\bin\Debug\Ionic.Zip.xml
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\bin\Debug\Microsoft.WITDataStore.dll
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\View\ExportDialog.baml
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\WordToTFS.g.resources
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\WordToTFS.Properties.Resources.resources
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\WordToTFS.Properties.Resources.ru-RU.resources
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\WordToTFS.UIResources.ru-RU.resources
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\WordToTFS.UIResources.en-US.resources
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\WordToTFS.csproj.GenerateResource.Cache
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\ru-RU\WordToTFS.resources.dll
+C:\Users\tanya\Documents\Work projects\Salma\WordToTFS\obj\Debug\en-US\WordToTFS.resources.dll

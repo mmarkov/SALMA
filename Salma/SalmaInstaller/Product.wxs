@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?define Version="1.1.1" ?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+  <Product Id="*" Name="SALMA for MS Word" Language="1033" Version="$(var.Version)" Manufacturer="SoftServe Ltd." UpgradeCode="13c8acf3-bbcb-459f-88ef-0f30e08331f5" Codepage="$(var.codepage)">
+    <Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine"
+             Languages="1033" SummaryCodepage="1252" />
+
+    <Upgrade Id="13c8acf3-bbcb-459f-88ef-0f30e08331f5">
+      <UpgradeVersion Minimum="1.0.0"
+                      IncludeMinimum="yes"
+                      OnlyDetect="no"
+                      Maximum="$(var.Version)"
+                      IncludeMaximum="no"
+                      Property="PREVIOUSFOUND" />
+    </Upgrade>
+    
+    <Condition Message="You need to be an administrator to install this product.">
+      Privileged
+    </Condition>
+
+    <!--<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />-->
+    <!-- Deploy with one file set to "yes" -->
+    <MediaTemplate EmbedCab="yes"  />
+
+    <Feature Id="ProductFeature" Title="SALMA for MS Word" Level="1">
+      <ComponentGroupRef Id="MainComponents" />
+      <ComponentGroupRef Id="USLocalizationComponents" />
+      <ComponentGroupRef Id="RuLocalizationComponents" />
+      <ComponentGroupRef Id="HelpComponents" />
+
+      <ComponentRef Id="Registry.FriendlyName" />
+      <ComponentRef Id="Registry.Description" />
+      <ComponentRef Id="Registry.Manifest" />
+      <ComponentRef Id="Registry.LoadBehavior" />        
+    </Feature>         
+    
+    <!-- UI and Dialog Flow Definition -->
+    <UI Id="WixUI_InstallDir">                        
+      <TextStyle Id="WixUI_Font_Normal" FaceName="Tahoma" Size="8" />
+      <TextStyle Id="WixUI_Font_Bigger" FaceName="Tahoma" Size="12" />
+      <TextStyle Id="WixUI_Font_Title" FaceName="Tahoma" Size="9" Bold="yes" />
+
+      <Property Id="DefaultUIFont" Value="WixUI_Font_Normal" />
+      <Property Id="WixUI_Mode" Value="InstallDir" />
+
+      <DialogRef Id="BrowseDlg" />
+      <DialogRef Id="DiskCostDlg" />
+      <DialogRef Id="ErrorDlg" />
+      <DialogRef Id="FatalError" />
+      <DialogRef Id="FilesInUse" />
+      <DialogRef Id="MsiRMFilesInUse" />
+      <DialogRef Id="PrepareDlg" />
+      <DialogRef Id="ProgressDlg" />
+      <DialogRef Id="ResumeDlg" />
+      <DialogRef Id="UserExit" />
+
+      <Publish Dialog="ExitDialog" Control="Finish" Event="EndDialog" Value="Return" Order="999">1</Publish>
+
+      <Publish Dialog="WelcomeDlg" Control="Next" Event="NewDialog" Value="InstallDirDlg">1</Publish>
+
+      <Publish Dialog="LicenseAgreementDlg" Control="Back" Event="NewDialog" Value="WelcomeDlg">1</Publish>
+      <Publish Dialog="LicenseAgreementDlg" Control="Next" Event="NewDialog" Value="InstallDirDlg">LicenseAccepted = "1"</Publish>
+
+      <Publish Dialog="InstallDirDlg" Control="Back" Event="NewDialog" Value="WelcomeDlg">1</Publish>
+      <Publish Dialog="InstallDirDlg" Control="Next" Event="SetTargetPath" Value="[WIXUI_INSTALLDIR]" Order="1">1</Publish>
+      <Publish Dialog="InstallDirDlg" Control="Next" Event="NewDialog" Value="VerifyReadyDlg" Order="2">1</Publish>
+      <Publish Dialog="InstallDirDlg" Control="ChangeFolder" Property="_BrowseProperty" Value="[WIXUI_INSTALLDIR]" Order="1">1</Publish>
+      <Publish Dialog="InstallDirDlg" Control="ChangeFolder" Event="SpawnDialog" Value="BrowseDlg" Order="2">1</Publish>
+
+      <Publish Dialog="VerifyReadyDlg" Control="Back" Event="NewDialog" Value="InstallDirDlg" Order="1">NOT Installed</Publish>
+      <Publish Dialog="VerifyReadyDlg" Control="Back" Event="NewDialog" Value="MaintenanceTypeDlg" Order="2">Installed</Publish>
+
+      <Publish Dialog="MaintenanceWelcomeDlg" Control="Next" Event="NewDialog" Value="MaintenanceTypeDlg">1</Publish>
+
+      <Publish Dialog="MaintenanceTypeDlg" Control="RepairButton" Event="NewDialog" Value="VerifyReadyDlg">1</Publish>
+      <Publish Dialog="MaintenanceTypeDlg" Control="RemoveButton" Event="NewDialog" Value="VerifyReadyDlg">1</Publish>
+      <Publish Dialog="MaintenanceTypeDlg" Control="Back" Event="NewDialog" Value="MaintenanceWelcomeDlg">1</Publish>
+
+      <Property Id="ARPNOMODIFY" Value="1" />
+
+    </UI>
+
+    <InstallExecuteSequence>
+      <RemoveExistingProducts After="InstallInitialize"/>
+    </InstallExecuteSequence>
+    
+    <Property Id="WIXUI_INSTALLDIR" Value="INSTALLFOLDER" />
+    <UIRef Id="WixUI_Common" />
+
+  </Product>
+
+  <Fragment>
+    <Directory Id="TARGETDIR" Name="SourceDir">
+      <Directory Id="ProgramFilesFolder">
+        <Directory Id="CompanyFolder" Name="SoftServe" >
+          <Directory Id="INSTALLFOLDER" Name="SALMA for Word">
+            <Component Id="Registry.FriendlyName" Guid="4eb5360e-d900-4246-8c9b-6c7257057ac4">
+              <RegistryValue Id="RegKey.FriendlyName" Root="HKCU"
+                             Key="Software\Microsoft\Office\Word\AddIns\SoftServe.SALMA"
+                             Name="FriendlyName"
+                             Value="SoftServe SALMA Add-In"
+                             Type="string" KeyPath="yes" />
+            </Component>
+            <Component Id="Registry.Description" Guid="d19036d3-6efa-4ce4-ac2e-000ca1ac87d1">
+              <RegistryValue Id="RegKey.Description" Root="HKCU"
+                             Key="Software\Microsoft\Office\Word\AddIns\SoftServe.SALMA"
+                             Name="Description"
+                             Value="SoftServe SALMA Add-In"
+                             Type="string" KeyPath="yes" />
+            </Component>
+            <Component Id="Registry.Manifest" Guid="832bdd47-de98-4377-8d70-ca4cdda993d4">
+              <RegistryValue Id="RegKey.Manifest" Root="HKCU"
+                             Key="Software\Microsoft\Office\Word\AddIns\SoftServe.SALMA"
+                             Name="Manifest" Value="file:///[INSTALLFOLDER]Salma.vsto|vstolocal"
+                             Type="string" KeyPath="yes" />
+            </Component>
+            <Component Id="Registry.LoadBehavior" Guid="2041b919-78c0-4738-b6ba-e485cf6fa2e8">
+              <RegistryValue Id="RegKey.LoadBehavior" Root="HKCU"
+                             Key="Software\Microsoft\Office\Word\AddIns\SoftServe.SALMA"
+                             Name="LoadBehavior" Value="3"
+                             Type="integer" KeyPath="yes" />
+            </Component>
+            <Directory Id="LocalizationUS" Name="en-US"></Directory>
+            <Directory Id="LocalizationRu" Name="ru-RU"></Directory>
+            <Directory Id="Help" Name="Help"></Directory>
+          </Directory>
+        </Directory>
+      </Directory>
+    </Directory>
+  </Fragment>
+
+  <Fragment>
+    <!--Main Folder Components -->
+    <ComponentGroup Id="MainComponents" Directory="INSTALLFOLDER">
+      <Component Id="WordToTFS.dll.Component" Guid="d2540b36-fd92-4e4a-b576-42024d35955c">
+        <File Id="WordToTFS.dll" KeyPath="yes"
+              Name="WordToTFS.dll"
+              Source="$(var.Salma.TargetDir)" />
+      </Component>
+      <Component Id="HtmlAgilityPack.dll.Component" Guid="8F578E85-0B86-429C-B0F6-E58E16C994A9">
+        <File Id="HtmlAgilityPack.dll" KeyPath="yes"
+              Name="HtmlAgilityPack.dll"
+              Source="$(var.Salma.TargetDir)" />
+      </Component>
+      <Component Id="DocumentFormat.OpenXml.dll.Component" Guid="F4FD49D3-411D-44EC-B72E-324D78D5A45A">
+        <File Id="DocumentFormat.OpenXml.dll" KeyPath="yes"
+              Name="DocumentFormat.OpenXml.dll"
+              Source="$(var.Salma.TargetDir)" />
+      </Component>
+      <Component Id="Ionic.Zip.dll.Component" Guid="0056497d-5482-4898-ad52-83ac203d9476">
+        <File Id="Ionic.Zip.dll" KeyPath="yes"
+              Name="Ionic.Zip.dll"
+              Source="$(var.Salma.TargetDir)" />
+      </Component>
+      <Component Id="Microsoft.Office.Tools.Common.v4.0.Utilities.dll.Component" Guid="00a46e81-d000-472b-8a6c-e9f516dd7824">
+        <File Id="Microsoft.Office.Tools.Common.v4.0.Utilities.dll" KeyPath="yes"
+              Name="Microsoft.Office.Tools.Common.v4.0.Utilities.dll"
+              Source="$(var.Salma.TargetDir)" />
+      </Component>
+      
+      <Component Id="Microsoft.TeamFoundation.WorkItemTracking.Controls.dll.Component" Guid="CFB0C11C-D8E0-4BE9-8DA5-2F4F05C01CB3">
+        <File Id="Microsoft.TeamFoundation.WorkItemTracking.Controls.dll" KeyPath="yes"
+              Name="Microsoft.TeamFoundation.WorkItemTracking.Controls.dll"
+              Source="$(var.Salma.TargetDir)" />
+      </Component>
+      
+      <Component Id="Microsoft.TeamFoundation.WorkItemTracking.ControlsCore.dll.Component" Guid="A24B5060-B088-4A78-8DD7-02028A01AC8B">
+        <File Id="Microsoft.TeamFoundation.WorkItemTracking.ControlsCore.dll" KeyPath="yes"
+              Name="Microsoft.TeamFoundation.WorkItemTracking.ControlsCore.dll"
+              Source="$(var.Salma.TargetDir)" />
+      </Component>
+      
+      <Component Id="Microsoft.TeamFoundation.WorkItemTracking.Client.dll.Component" Guid="f516d5ee-d798-48bc-ad23-82dd29640c00">
+        <File Id="Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll" KeyPath="yes"
+              Name="Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll"
+              Source="$(var.Salma.TargetDir)" />
+      </Component>
+      <Component Id="Microsoft.WITDataStore.dll.Component" Guid="788abf72-2887-4070-81ad-b415800a1fde">
+        <File Id="Microsoft.WITDataStore.dll" KeyPath="yes"
+              Name="Microsoft.WITDataStore.dll"
+              Source="$(var.Salma.TargetDir)" />
+      </Component>
+      <Component Id="Salma.dll.Component" Guid="49b32347-75d4-4cd1-a325-4ba3e94f46da">
+        <File Id="Salma.dll" KeyPath="yes"
+              Name="Salma.dll"
+              Source="$(var.Salma.TargetDir)" />
+      </Component>
+      <Component Id="Salma.dll.config.Component" Guid="c369439f-8ea7-4011-9f85-fc6c76695599">
+        <File Id="Salma.dll.config" KeyPath="yes"
+              Name="Salma.dll.config"
+              Source="$(var.Salma.TargetDir)" />
+      </Component>
+      <Component Id="Salma.dll.manifest.Component" Guid="f685b12a-85ad-40eb-8ec7-1e375440ef22">
+        <File Id="Salma.dll.manifest" KeyPath="yes"
+              Name="Salma.dll.manifest"
+              Source="$(var.Salma.TargetDir)" />
+      </Component>
+      <Component Id="Salma.vsto.Component" Guid="535460bb-d7d2-4d28-b1d7-27edf87e6492">
+        <File Id="Salma.vsto" KeyPath="yes"
+              Name="Salma.vsto"
+              Source="$(var.Salma.TargetDir)" />
+      </Component>   
+    </ComponentGroup>
+
+    <!-- US Localizarion Folder Content-->
+    <ComponentGroup Id ="USLocalizationComponents" Directory="LocalizationUS">
+      <Component Id="UsWordToTFS.resources.dll.USLocalizationComponents" Guid="6fe11b2c-fb00-4afa-9e78-d3d8f8607e43">
+        <File Id="UsWordToTFS.resources.dll" KeyPath="yes"
+              Name="WordToTFS.resources.dll"
+              Source="$(var.Salma.TargetDir)en-US\" />
+      </Component>
+    </ComponentGroup>
+
+    <!-- RU Localization Folder Conent-->
+    <ComponentGroup Id ="RuLocalizationComponents" Directory="LocalizationRu">
+      <Component Id="RuWordToTFS.resources.dll.RuLocalizationComponents" Guid="92750339-088f-4db9-b79a-16f646983858">
+        <File Id="RuWordToTFS.resources.dll" KeyPath="yes"
+              Name="WordToTFS.resources.dll"
+              Source="$(var.Salma.TargetDir)ru-RU\" />
+      </Component>
+      <Component Id="Salma.resources.dll.RuLocalizationComponents" Guid="0c97f11b-b1fc-480c-82b6-dcfa77d76d64">
+        <File Id="Salma.resources.dll" KeyPath="yes"
+              Name="Salma.resources.dll"
+              Source="$(var.Salma.TargetDir)ru-RU\" />
+      </Component>
+    </ComponentGroup>
+
+    <!-- Help Folder Content-->
+    <ComponentGroup Id ="HelpComponents" Directory="Help">
+      <Component Id="How_to_Use_SALMA.chm.RuLocalizationComponents" Guid="8d9e03e9-bbdb-4467-9433-bc26be22e536">
+        <File Id="How_to_Use_SALMA.chm" KeyPath="yes"
+              Name="How_to_Use_SALMA.chm"
+              Source="$(var.Salma.TargetDir)Help\" />
+      </Component>
+      <Component Id="How_to_Use_SALMA_RU.chm.RuLocalizationComponents" Guid="c50a9da9-c74e-4add-98da-f5e5520be2cb">
+        <File Id="How_to_Use_SALMA_RU.chm" KeyPath="yes"
+              Name="How_to_Use_SALMA_RU.chm"
+              Source="$(var.Salma.TargetDir)Help\" />
+      </Component>
+    </ComponentGroup>
+  </Fragment>
+</Wix>

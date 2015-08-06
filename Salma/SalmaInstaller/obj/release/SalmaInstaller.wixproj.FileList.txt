@@ -1,0 +1,10 @@
+D:\2010-2012 SALMA\Salma\SalmaInstaller\bin\Release\SalmaInstaller.msi
+D:\2010-2012 SALMA\Salma\SalmaInstaller\bin\Release\SalmaInstaller.wixpdb
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\SalmaInstaller\bin\Release\SalmaInstaller.msi
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\SalmaInstaller\bin\Release\SalmaInstaller.wixpdb
+C:\Users\tanya\Documents\Work projects\Salma\SalmaInstaller\bin\Release\SalmaInstaller.msi
+C:\Users\tanya\Documents\Work projects\Salma\SalmaInstaller\bin\Release\SalmaInstaller.wixpdb
+obj\Release\Product.wixobj
+obj\Release\SalmaInstaller.wixproj.BindContentsFileListnull.txt
+obj\Release\SalmaInstaller.wixproj.BindOutputsFileListnull.txt
+obj\Release\SalmaInstaller.wixproj.BindBuiltOutputsFileListnull.txt

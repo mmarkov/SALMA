@@ -1,0 +1,128 @@
+D:\2010-2012 SALMA\Salma\Salma2010\bin\Debug\Help\How_to_Use_SALMA.chm
+D:\2010-2012 SALMA\Salma\Salma2010\bin\Debug\Help\How_to_Use_SALMA_RU.chm
+D:\2010-2012 SALMA\Salma\Salma2010\bin\Debug\Salma.dll.config
+D:\2010-2012 SALMA\Salma\Salma2010\bin\Debug\Salma.dll
+D:\2010-2012 SALMA\Salma\Salma2010\bin\Debug\Salma.pdb
+D:\2010-2012 SALMA\Salma\Salma2010\bin\Debug\ru-RU\Salma.resources.dll
+D:\2010-2012 SALMA\Salma\Salma2010\bin\Debug\Salma.dll.manifest
+D:\2010-2012 SALMA\Salma\Salma2010\bin\Debug\Salma.vsto
+D:\2010-2012 SALMA\Salma\Salma2010\bin\Debug\Ionic.Zip.dll
+D:\2010-2012 SALMA\Salma\Salma2010\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\2010-2012 SALMA\Salma\Salma2010\bin\Debug\SoftwareLocker.dll
+D:\2010-2012 SALMA\Salma\Salma2010\bin\Debug\WordToTFS.dll
+D:\2010-2012 SALMA\Salma\Salma2010\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+D:\2010-2012 SALMA\Salma\Salma2010\bin\Debug\SoftwareLocker.pdb
+D:\2010-2012 SALMA\Salma\Salma2010\bin\Debug\WordToTFS.pdb
+D:\2010-2012 SALMA\Salma\Salma2010\bin\Debug\Ionic.Zip.xml
+D:\2010-2012 SALMA\Salma\Salma2010\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\2010-2012 SALMA\Salma\Salma2010\bin\Debug\ru-RU\SoftwareLocker.resources.dll
+D:\2010-2012 SALMA\Salma\Salma2010\bin\Debug\en-US\WordToTFS.resources.dll
+D:\2010-2012 SALMA\Salma\Salma2010\bin\Debug\ru-RU\WordToTFS.resources.dll
+D:\2010-2012 SALMA\Salma\Salma2010\bin\Debug\Microsoft.WITDataStore.dll
+D:\2010-2012 SALMA\Salma\Salma2010\obj\Debug\Salma.csprojResolveAssemblyReference.cache
+D:\2010-2012 SALMA\Salma\Salma2010\obj\Debug\Salma2010.Properties.Resources.resources
+D:\2010-2012 SALMA\Salma\Salma2010\obj\Debug\Salma2010.Properties.Resources.ru-RU.resources
+D:\2010-2012 SALMA\Salma\Salma2010\obj\Debug\Salma.csproj.GenerateResource.Cache
+D:\2010-2012 SALMA\Salma\Salma2010\obj\Debug\ru-RU\Salma.resources.dll
+D:\2010-2012 SALMA\Salma\Salma2010\obj\Debug\Salma.dll
+D:\2010-2012 SALMA\Salma\Salma2010\obj\Debug\Salma.pdb
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\obj\Debug\Salma.csprojResolveAssemblyReference.cache
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\obj\Debug\Salma2010.Properties.Resources.resources
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\obj\Debug\Salma2010.Properties.Resources.ru-RU.resources
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\obj\Debug\Salma.csproj.GenerateResource.Cache
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\obj\Debug\ru-RU\Salma.resources.dll
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\obj\Debug\Salma.dll
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\obj\Debug\Salma.pdb
+C:\Users\adarn\AppData\Local\assembly\dl3\T9WNVO0J.66P\H8T9AEGV.18V\ab4f2762\00163433_93f6ce01\Help\How_to_Use_SALMA.chm
+C:\Users\adarn\AppData\Local\assembly\dl3\T9WNVO0J.66P\H8T9AEGV.18V\ab4f2762\00163433_93f6ce01\Help\How_to_Use_SALMA_RU.chm
+C:\Users\adarn\AppData\Local\assembly\dl3\T9WNVO0J.66P\H8T9AEGV.18V\ab4f2762\00163433_93f6ce01\Salma.dll.config
+C:\Users\adarn\AppData\Local\assembly\dl3\T9WNVO0J.66P\H8T9AEGV.18V\ab4f2762\00163433_93f6ce01\Salma.dll
+C:\Users\adarn\AppData\Local\assembly\dl3\T9WNVO0J.66P\H8T9AEGV.18V\ab4f2762\00163433_93f6ce01\Salma.pdb
+C:\Users\adarn\AppData\Local\assembly\dl3\T9WNVO0J.66P\H8T9AEGV.18V\ab4f2762\00163433_93f6ce01\ru-RU\Salma.resources.dll
+C:\Users\adarn\AppData\Local\assembly\dl3\T9WNVO0J.66P\H8T9AEGV.18V\ab4f2762\00163433_93f6ce01\Salma.dll.manifest
+C:\Users\adarn\AppData\Local\assembly\dl3\T9WNVO0J.66P\H8T9AEGV.18V\ab4f2762\00163433_93f6ce01\Salma.vsto
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\bin\Help\How_to_Use_SALMA.chm
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\bin\Help\How_to_Use_SALMA_RU.chm
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\bin\Salma.dll.config
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\bin\Salma.dll
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\bin\Salma.pdb
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\bin\ru-RU\Salma.resources.dll
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\bin\Salma.dll.manifest
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\bin\Salma.vsto
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\bin\Ionic.Zip.dll
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\bin\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\bin\SoftwareLocker.dll
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\bin\WordToTFS.dll
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\bin\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\bin\Newtonsoft.Json.dll
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\bin\System.Net.Http.Formatting.dll
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\bin\System.Web.Http.dll
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\bin\SoftwareLocker.pdb
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\bin\WordToTFS.pdb
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\bin\Ionic.Zip.xml
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\bin\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\bin\System.Net.Http.Formatting.xml
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\bin\System.Web.Http.xml
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\bin\ru-RU\SoftwareLocker.resources.dll
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\bin\en-US\WordToTFS.resources.dll
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\bin\ru-RU\WordToTFS.resources.dll
+D:\SALMA sourcecode for v1-6\Salma\Salma2010\bin\Microsoft.WITDataStore.dll
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\Salma2010\obj\Debug\Salma.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\Salma2010\obj\Debug\Salma2010.Properties.Resources.resources
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\Salma2010\obj\Debug\Salma2010.Properties.Resources.ru-RU.resources
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\Salma2010\obj\Debug\Salma.csproj.GenerateResource.Cache
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\Salma2010\obj\Debug\Salma.dll
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\Salma2010\obj\Debug\Salma.pdb
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\Salma2010\bin\Help\How_to_Use_SALMA.chm
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\Salma2010\bin\Help\How_to_Use_SALMA_RU.chm
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\Salma2010\bin\Salma.dll.config
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\Salma2010\bin\Salma.dll
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\Salma2010\bin\Salma.pdb
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\Salma2010\bin\ru-RU\Salma.resources.dll
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\Salma2010\bin\Salma.dll.manifest
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\Salma2010\bin\Salma.vsto
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\Salma2010\bin\Ionic.Zip.dll
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\Salma2010\bin\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\Salma2010\bin\WordToTFS.dll
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\Salma2010\bin\HtmlAgilityPack.dll
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\Salma2010\bin\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\Salma2010\bin\Newtonsoft.Json.dll
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\Salma2010\bin\WordToTFS.pdb
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\Salma2010\bin\Ionic.Zip.xml
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\Salma2010\bin\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\Salma2010\bin\en-US\WordToTFS.resources.dll
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\Salma2010\bin\ru-RU\WordToTFS.resources.dll
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\Salma2010\bin\Microsoft.WITDataStore.dll
+C:\Users\tanya\Documents\Work projects\Salma_new\Salma\Salma2010\obj\Debug\ru-RU\Salma.resources.dll
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\bin\HtmlAgilityPack.dll
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\bin\Ionic.Zip.dll
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\bin\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\bin\WordToTFS.dll
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\bin\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\bin\Newtonsoft.Json.dll
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\bin\WordToTFS.pdb
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\bin\Ionic.Zip.xml
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\bin\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\bin\en-US\WordToTFS.resources.dll
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\bin\ru-RU\WordToTFS.resources.dll
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\bin\Microsoft.WITDataStore.dll
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\obj\Debug\Salma.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\obj\Debug\Salma2010.Properties.Resources.resources
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\obj\Debug\Salma2010.Properties.Resources.ru-RU.resources
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\obj\Debug\Salma.csproj.GenerateResource.Cache
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\obj\Debug\ru-RU\Salma.resources.dll
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\obj\Debug\Salma.dll
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\obj\Debug\Salma.pdb
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\bin\Help\How_to_Use_SALMA.chm
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\bin\Help\How_to_Use_SALMA_RU.chm
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\bin\Salma.dll.config
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\bin\Salma.dll
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\bin\Salma.pdb
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\bin\ru-RU\Salma.resources.dll
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\bin\Salma.dll.manifest
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\bin\Salma.vsto
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\bin\DocumentFormat.OpenXml.dll
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\bin\Microsoft.TeamFoundation.WorkItemTracking.Controls.dll
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\bin\Microsoft.TeamFoundation.WorkItemTracking.ControlsCore.dll
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\bin\Microsoft.TeamFoundation.WorkItemTracking.Controls.xml
+C:\Users\tanya\Documents\Work projects\Salma\Salma2010\bin\Microsoft.TeamFoundation.WorkItemTracking.ControlsCore.xml
